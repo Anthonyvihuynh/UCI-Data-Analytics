@@ -1,4 +1,4 @@
-Homework submission for Anthony Huynh hw2 - VBA 
+Homework submission for Anthony Huynh hw2 - VBA (Hard)
 
 (File uploaded as .VBS) 
 
