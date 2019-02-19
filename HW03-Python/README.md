@@ -36,4 +36,4 @@ This Python script counts poll data from [election_data.csv](PyPoll/election_dat
 
 As with the first script, prints the results to terminal and exports a text file with the results. 
 
-![Poll](PyPoll/Results.png)
+![Poll](PyPoll/results.png)
